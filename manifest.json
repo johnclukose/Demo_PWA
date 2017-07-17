@@ -1,10 +1,10 @@
 {
-  "short_name": "John's PWA",
-  "name": "John's PWA",
+  "short_name": "Quikr Jobs",
+  "name": "Quikr Jobs",
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "256x256",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ],
